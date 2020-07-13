@@ -1,0 +1,33 @@
+{% extends 'main/main_page.html' %}
+
+{% block title %}
+{{ post.title }}
+{% endblock %}
+
+{% block content %}
+    <table class="table table-bordered mt-5 mb-5" style="width: 900px; margin-right: auto; margin-left: auto;">
+        <thead class="thead-dark">
+            <tr align="center">
+                <th>Название файла</th>
+                <th>Дата загрузки</th>
+                <th>Файл</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for file in universitysubject.files.all %}
+                <tr align="center">
+                    <td>{{ file.title }}</td>
+                    <td>{{ file.date_upload }}</td>
+                    <td>
+                        <a href="{% url 'download_subject_file' file.file.url %}" class="btn btn-dark"> Скачать файл </a>
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+{% endblock %}
+
+{% block contacts %}
+{{ block.super }}
+{% endblock %}

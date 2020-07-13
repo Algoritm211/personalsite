@@ -1,0 +1,562 @@
+[
+  {
+    "name": "hikvision ds-2cd2423g0-iw (4mm) vnit\u0159n\u00ed 2 mpix cube kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/ip-kamery-a-enkodery/hikvision-ds-2cd2423g0-iw--4mm--vnitrni-2-mpix-cube-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98040/3697/ds-2ce16sf1t-it"
+  },
+  {
+    "name": "hikvision ds-2ce16h8t-itf (2.8mm) venkovn\u00ed 5 mpix\u00a0bullet analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce16h8t-itf--2-8mm--venkovni-5-mpix--bullet--analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/100942/3697/ds-2ce16h8t-itf-28"
+  },
+  {
+    "name": "hikvision ds-2ce72dft-f (3.6mm) colorvu",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2ce72dft-f-3-6mm--colorvu/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98125/3697/ds-2ce72dft-f-36"
+  },
+  {
+    "name": "hikvision ds-2ce16h0t-itf (3.6mm) venkovn\u00ed 5 mpix\u00a0bullet analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce16h0t-itf--3-6mm--venkovni-5-mpix--bullet--analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97707/3697/ds-2ce16h0t-itf-36"
+  },
+  {
+    "name": "hikvision ds-2ce16h0t-it3f (3.6mm) venkovn\u00ed 5 mpix\u00a0bullet analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce16h0t-it3f--3-6mm--venkovni-5-mpix--bullet--analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97711/3697/ds-2ce16h0t-it3f-36"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-it3f (2.8mm) venkovn\u00ed 2 mpix\u00a0bullet analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce16d0t-it3f--2-8mm--venkovni-2-mpix--bullet--analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97687/3697/ds-2ce16d0t-it3f-28"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-irs (2.8mm) venkovn\u00ed 2 mp hd-tvi mini\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56d8t-irs--2-8mm--venkovni-2-mp-hd-tvi-mini--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98063/3697/ds-2ce56d8t-irs-28"
+  },
+  {
+    "name": "hikvision ds-2ce56h0t-itmf (3.6mm) venkovn\u00ed 5 mpix\u00a0turret analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce56h0t-itmf--3-6mm--venkovni-5-mpix--turret-analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97784/3697/ds-2ce56h0t-itmf-36"
+  },
+  {
+    "name": "hikvision ds-2ce56h0t-it3zf (2.7-13.5mm) venkovn\u00ed 5 mpix\u00a0turret kamera 4v1",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce56h0t-it3zf--2-7-13-5mm--venkovni-5-mpix--turret-kamera-4v1/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98078/3697/ds-2ce56h0t-it3zf"
+  },
+  {
+    "name": "hikvision ds-2ce5ah0t-vpit3zf (2.7-13.5mm) 4v1 venkovn\u00ed 5mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce5ah0t-vpit3zf--2-7-13-5mm--4v1-venkovni-5mp-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98121/3697/ds-2ce5ah0t-vpit3zf"
+  },
+  {
+    "name": "hikvision ds-2ce56h5t-itz (2.8 - 12mm) venkovn\u00ed 5mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56h5t-itz--2-8-12mm--venkovni-5mp-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98111/3697/ds-2ce56h5t-itz"
+  },
+  {
+    "name": "hikvision ds-2ce56h5t-itm (3.6mm) venkovn\u00ed 5 mp hd-tvi dome ball\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56h5t-itm--3-6mm--venkovni-5-mp-hd-tvi-dome-ball--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/95720/3697/ds-2ce56h5t-itm/36"
+  },
+  {
+    "name": "hikvision ds-2ce56h1t-vpit3z (2.8-12mm) venkovn\u00ed 5mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56h1t-vpit3z-2-8-12mm--venkovni-5mp-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98106/3697/ds-2ce56h1t-vpit3z"
+  },
+  {
+    "name": "hikvision ds-2ce56h1t-vpit (3.6mm) venkovn\u00ed 5mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56h1t-vpit--3-6mm--venkovni-5mp-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98103/3697/ds-2ce56h1t-vpit-36"
+  },
+  {
+    "name": "hikvision ds-2ce56h1t-itze (2.8-12mm) poc venkovn\u00ed 5mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56h1t-itze--2-8-12mm--poc-venkovni-5mp-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98101/3697/ds-2ce56h1t-itze"
+  },
+  {
+    "name": "hikvision ds-2ce56d5t-irm (2.8mm) 2 mpix hd-tvi dome\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56d5t-irm--2-8mm--2-mpix-hd-tvi-dome--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/66803/3697/ds-2ce56d5t-irm"
+  },
+  {
+    "name": "hikvision ds-2ce16h5t-it3 (3.6mm) venkovn\u00ed 5 mp hd-tvi bullet\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce16h5t-it3--3-6mm--venkovni-5-mp-hd-tvi-bullet--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97727/3697/ds-2ce16h5t-it3-36"
+  },
+  {
+    "name": "hikvision ds-2ce16h1t-ite (2.8 mm) venkovn\u00ed 5 mpix hd-tvi bullet kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2ce16h1t-ite--2-8-mm--venkovni-5-mpix-hd-tvi-bullet-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97724/3697/ds-2ce16h1t-ite-28"
+  },
+  {
+    "name": "hikvision ds-2ce16h1t-it5e (3.6mm) venkovn\u00ed 5 mpix\u00a0turbo hd bullet ip kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce16h1t-it5e--3-6mm--venkovni-5-mpix--turbo-hd-bullet-ip-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97723/3697/ds-2ce16h1t-it5e-36"
+  },
+  {
+    "name": "hikvision ds-2ce16h1t-it3e (3.6 mm) venkovn\u00ed 5 mpix hd-tvi bullet kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce16h1t-it3e--3-6-mm--venkovni-5-mpix-hd-tvi-bullet-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97712/3697/ds-2ce16h1t-it3e-36"
+  },
+  {
+    "name": "hikvision ds-2ce12dft-f (3.6mm) venkovn\u00ed 2 mp\u00a0bullet hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2ce12dft-f--3-6mm--venkovni-2-mp--bullet-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97656/3697/ds-2ce12dft-f-36"
+  },
+  {
+    "name": "hikvision ds-2ce10dft-f (3.6mm) venkovn\u00ed 2 mp\u00a0bullet hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2ce10dft-f-36-venkovni-2-mp--bullet-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97652/3697/ds-2ce10dft-f-36"
+  },
+  {
+    "name": "hikvision ds-2cc52d9t-aitze (2.8-12mm) poc vnit\u0159n\u00ed 2mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2cc52d9t-aitze--2-8-12mm--poc-vnitrni-2mp-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97937/3697/ds-2cc52d9t-aitze"
+  },
+  {
+    "name": "hikvision ds-2ae5123ti-a (23x) venkovn\u00ed 1.3 mpix speed dome\u00a0hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ae5123ti-a--23x--venkovni-1-3-mpix-speed-dome--hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97873/3697/ds-2ae5123ti-a"
+  },
+  {
+    "name": "hikvision ds-2ce57u1t-vpitf (2.8mm) venkovn\u00ed 4k 8mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce57u1t-vpitf--2-8mm--venkovni-4k-8mp-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/99546/3697/ds-2ce57u1t-vpitf-2-8mm"
+  },
+  {
+    "name": "hikvision ds-2ce71h0t-pirl (2.8mm) venkovn\u00ed 5 mp dome ball hd-tvi\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce71h0t-pirl--2-8mm--venkovni-5-mp-hd-tvi--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/101608/3697/ds-2ce71h0t-pirl-2-8mm"
+  },
+  {
+    "name": "hikvision ds-2ce56h0t-vpitf (2.8mm) venkovn\u00ed 5 mpix\u00a0box analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce56h0t-vpitf--2-8mm--venkovni-5-mpix--box-analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98082/3697/ds-2ce56h0t-vpitf-28"
+  },
+  {
+    "name": "hikvision ds-2ce78u8t-it3 (3.6mm) venkovn\u00ed 4k 8 mp hd-tvi dome ball\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce78u8t-it3--3-6mm--venkovni-4k-8-mp-hd-tvi-dome-ball--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98130/3697/ds-2ce78u8t-it3-36"
+  },
+  {
+    "name": "hikvision ds-2ce78u8t-it3 (2.8mm) venkovn\u00ed 4k 8 mp hd-tvi dome ball\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce78u8t-it3--2-8mm--venkovni-4k-8-mp-hd-tvi-dome-ball--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98127/3697/ds-2ce78u8t-it3-28"
+  },
+  {
+    "name": "hikvision ds-2ce57u8t-vpit (2.8mm) venkovn\u00ed 4k 8mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce57u8t-vpit--2-8mm--venkovni-4k-8mp-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97801/3697/ds-2ce57u8t-vpit-28"
+  },
+  {
+    "name": "hikvision ds-2ce57u8t-vpit (3.6mm) venkovn\u00ed 4k 8mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce57u8t-vpit--3-6mm--venkovni-4k-8mp-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98117/3697/ds-2ce57u8t-vpit-36"
+  },
+  {
+    "name": "hikvision ds-2ce18u8t-it3 (3.6mm) starlight+ venkovn\u00ed 8 mp 4k\u00a0bullet hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce18u8t-it3--3-6mm--starlight--venkovni-8-mp-4k--bullet-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97736/3697/ds-2ce18u8t-it3-36"
+  },
+  {
+    "name": "hikvision ds-2ce18u8t-it3 (2.8mm) starlight+ venkovn\u00ed 8 mp 4k\u00a0bullet hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce18u8t-it3--2-8mm--starlight--venkovni-8-mp-4k--bullet-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/99545/3697/ds-2ce18u8t-it3/28"
+  },
+  {
+    "name": "hikvision ds-2ce59u8t-avpit3z (2.8 - 12 mm) starlight+ venkovn\u00ed 4k 8mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce59u8t-avpit3z--2-8-12-mm--starlight--venkovni-4k-8mp-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98120/3697/ds-2ce59u8t-avpit3z"
+  },
+  {
+    "name": "hikvision ds-2cc12d9t-it5e (3.6mm) starlight+ venkovn\u00ed 2 mpix\u00a0bullet\u00a0hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2cc12d9t-it5e--3-6mm--starlight--venkovni-2-mpix--bullet--hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97934/3697/ds-2cc12d9t-it5e"
+  },
+  {
+    "name": "hikvision ds-2ce71d8t-pirl (3.6mm) venkovn\u00ed 2 mp hd-tvi\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce71d8t-pirl--3-6mm--venkovni-2-mp-hd-tvi--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97807/3697/ds-2ce71d8t-pirl-3,6mm"
+  },
+  {
+    "name": "hikvision ds-2ce38d8t-pir (3.6mm) vnit\u0159n\u00ed 2 mp cube hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce38d8t-pir--3-6mm--vnitrni-2-mp-cube-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97741/3697/ds-2ce38d8t-pir-36"
+  },
+  {
+    "name": "hikvision ds-2ce38d8t-pir (2.8mm) vnit\u0159n\u00ed 2 mp cube hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce38d8t-pir--2-8mm--vnitrni-2-mp-cube-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97740/3697/ds-2ce38d8t-pir-28"
+  },
+  {
+    "name": "hikvision ds-2ce12d8t-pirl (3.6mm) starlight venkovn\u00ed 2 mp\u00a0bullet hd-tvi kamera",
+    "availability_kenex": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2ce12d8t-pirl--3-6mm--starlight-venkovni-2-mp--bullet-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97655/3697/ds-2ce12d8t-pirl"
+  },
+  {
+    "name": "hikvision ds-2ce12d8t-pirl (2.8mm) starlight venkovn\u00ed 2 mp\u00a0bullet hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2ce12d8t-pirl--2-8mm--starlight-venkovni-2-mp--bullet-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97655/3697/ds-2ce12d8t-pirl"
+  },
+  {
+    "name": "hikvision ds-2ce56h0t-itmf (2.8mm) venkovn\u00ed 5 mpix\u00a0turret analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce56h0t-itmf--2-8mm--venkovni-5-mpix--turret-analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97781/3697/ds-2ce56sh0t-itmf-28"
+  },
+  {
+    "name": "hikvision ds-2ce56h0t-it3f (2.8mm) venkovn\u00ed 5 mpix\u00a0turret analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce56h0t-it3f--2-8mm--venkovni-5-mpix--turret-analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97779/3697/ds-2ce56h0t-it3f-28"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-it3f (2.8mm) venkovn\u00ed 2 mpix\u00a0turret analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce56d0t-it3f--2-8mm--venkovni-2-mpix--turret-analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98059/3697/ds-2ce56d0t-it3f-28"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-irf (3.6mm) venkovn\u00ed 2 mpix\u00a0turret analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce56d0t-irf--3-6mm--venkovni-2-mpix--turret-analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98048/3697/ds-2ce56d0t-irf-36"
+  },
+  {
+    "name": "hikvision ds-2ce16h0t-itf (2.8mm) venkovn\u00ed 5 mpix\u00a0bullet analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce16h0t-itf--2-8mm--venkovni-5-mpix--bullet--analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97706/3697/ds-2ce16h0t-itf-28"
+  },
+  {
+    "name": "hikvision ds-2ce16h0t-it5f (3.6mm) venkovn\u00ed 5 mpix\u00a0bullet\u00a0analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce16h0t-it5f--3-6mm--venkovni-5-mpix--bullet--analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97716/3697/ds-2ce16h0t-it5f-36"
+  },
+  {
+    "name": "hikvision ds-2ce11d8t-pirl (2.8mm) venkovn\u00ed 2 mp\u00a0bullet hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2ce11d8t-pirl--2-8mm--venkovni-2-mp--bullet-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97654/3697/ds-2ce11d8t-pirl"
+  },
+  {
+    "name": "hikvision ds-2cc52h1t-fits (1.1mm) vnit\u0159n\u00ed 5 mpix\u00a0dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2cc52h1t-fits--1-1mm--vnitrni-5-mpix--dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/95865/3697/ds-2cc52h1t-fits"
+  },
+  {
+    "name": "hikvision ds-2ae7225ti-a (c) (25x) venkovn\u00ed 2 mpix speed dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ae7225ti-a--25x--venkovni-2-mpix-speed-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/101172/3697/ds-2ae7225ti-a-c"
+  },
+  {
+    "name": "hikvision ds-2ae5225ti-a (25x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ae5225ti-a--25x--venkovni-2-mpix-speed-dome--hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97906/3697/ds-2ae5225ti-a"
+  },
+  {
+    "name": "hikvision ds-2ce71d8t-pirl (2.8mm) venkovn\u00ed 2 mp hd-tvi\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce71d8t-pirl--2-8mm-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98123/3697/ds-2ce71d8t-pirl-2,8mm"
+  },
+  {
+    "name": "hikvision ds-2ce56h5t-it3ze (2.8-12mm) starlight poc venkovn\u00ed 5 mp hd-tvi dome ball\u00a0kamera",
+    "availability_kenex": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56h5t-it3ze--2-8-12mm--starlight-poc-venkovni-5-mp-hd-tvi-dome-ball--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98107/3697/ds-2ce56h5t-it3z"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-vfir3f (2.8-12mm) venkovn\u00ed 2 mpix\u00a0dome ball analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce56d0t-vfir3f--2-8-12mm--venkovni-2-mpix--dome-ball-analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98061/3697/ds-2cedd56d0t-vfir3f"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-vfir3f (2.8-12mm) venkovn\u00ed 2mp hd-tvi. cvi. ahd. analog kamera 4v1 s ir do 40m",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2ce16d0t-vfir3f--2-8-12mm--venkovni-2mp-hd-tvi--cvi--ahd--analog-kamera-4v1-s-ir-do-40m/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97692/3697/ds-2ce16d0t-vfir3f"
+  },
+  {
+    "name": "hikvision ds-2ce16d8t-ite (2.8mm) starlight poc venkovn\u00ed 2 mp hd-tvi bullet\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce16d8t-ite--2-8mm--starlight-poc-venkovni-2-mp-hd-tvi-bullet--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/112830/3697/ds-2ce16d8t-ite-2-8mm"
+  },
+  {
+    "name": "hikvision ds-2ce17u8t-it (2.8 mm) starlight+ venkovn\u00ed 8 mp 4k\u00a0bullet hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce17u8t-it--2-8-mm--starlight--venkovni-8-mp-4k--bullet-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97731/3697/ds-2ce17u8t-it-28"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-aitz (2.8-12mm) starlight venkovn\u00ed 2 mp hd-tvi dome\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56d8t-aitz--2-8-12mm--starlight-venkovni-2-mp-hd-tvi-dome--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97764/3697/ds-2ce56d8t-aitz"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-it3e (2.8mm) starlight poc venkovn\u00ed 2 mp hd-tvi dome ball\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56d8t-it3e--2-8mm--starlight-poc-venkovni-2-mp-hd-tvi-dome-ball--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/95894/3697/ds-2ce56d8t-it3e-2,8mm"
+  },
+  {
+    "name": "hikvision ds-2ce79u8t-it3z (2.8 - 12 mm) starlight+ venkovn\u00ed 4k 8 mp hd-tvi dome ball\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce79u8t-it3z--2-8-12-mm--starlight--venkovni-4k-8-mp-hd-tvi-dome-bal--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97810/3697/ds-2ce79u8t-it3z"
+  },
+  {
+    "name": "hikvision ds-2ce16d8t-it3ze (2.8 -12mm) starlight. poc venkovn\u00ed 2mp bullet hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce16d8t-it3ze--2-8-12mm--starlight--poc/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97702/3697/ds-2ce16d8t-it3ze"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-it3ze (2.8-12mm) starlight. poc venkovn\u00ed 2 mpix turbo\u00a0hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56d8t-it3ze--2-8-12mm--starlight--poc-venkovni-2-mpix-turbo--hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/95965/3697/ds-2ce56d8t-it3ze"
+  },
+  {
+    "name": "hikvision ds-2ae5223ti-a (23x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ae5223ti-a--23x-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/74693/3697/ds-2ae5223ti-a"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-it3 (2.8mm) starlight venkovn\u00ed 2 mp\u00a0hd-tvi dome ball\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56d8t-it3--2-8mm--starlight/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/73333/3697/ds-2ce56d7t-it3-3.6mm"
+  },
+  {
+    "name": "hikvision ds-2ce16d8t-it5 (3.6mm) venkovn\u00ed 2 mpix turbo hd exir bullet kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce16d8t-it5--3-6mm--venkovni-2-mpix-turbo-hd-exir-bullet-ip-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/95545/3697/ds-2ce16d8t-it5/3,6"
+  },
+  {
+    "name": "hikvision ds-2ae4223ti-d (23x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi\u00a0 kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ae4223ti-d--23x-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97870/3697/ds-2ae4223ti-d"
+  },
+  {
+    "name": "hikvision ds-2cc52d9t-it3e (2.8mm) starlight+ venkovn\u00ed 2mp dome ball hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2cc52d9t-it3e--2-8mm--starlight-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97954/3697/ds-2cc52d9t-it3e"
+  },
+  {
+    "name": "hikvision ds-2cc12d9t-it3e (2.8mm) starlight+ venkovn\u00ed 2 mpix\u00a0bullet\u00a0hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2cc12d9t-it3e--2-8mm--starlight-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97927/3697/ds-2cc12d9t-it3e"
+  },
+  {
+    "name": "hikvision ds-2cc12d9t-ait3ze (2.8-12mm) starlight+ venkovn\u00ed 2mp bullet hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2cc12d9t-ait3ze--2-8-12mm--starlight-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97924/3697/ds-2cc12d9t-ait3ze"
+  },
+  {
+    "name": "hikvision ds-2cc52d9t-avpit3ze (2.8-12mm) starlight+ poc venkovn\u00ed 2mp dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/kamerove-systemy/hikvision-ds-2cc52d9t-avpit3ze--2-8-12mm--starlight-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97946/3697/ds-2cc52d9t-avpit3ze"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-it3f (3.6mm) venkovn\u00ed 2 mpix\u00a0turret analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce56d0t-it3f--3-6mm--venkovni-2-mpix--turret-analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/98060/3697/ds-2cess56d0t-it3f-36"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-it3f (3.6 mm) venkovn\u00ed 2 mpix\u00a0bullet analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce16d0t-it3f--3-6-mm--venkovni-2-mpix--bullet--analogova--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97691/3697/ds-2ce16d0t-it3f-36"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-irmf (3.6mm) venkovn\u00ed 2 mpix\u00a0turret analogov\u00e1\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/analogove-kamery/hikvision-ds-2ce56d0t-irmf--3-6mm--venkovni-2-mpix--turbo-hd-turret-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/95598/3697/ds-2ce56d0t-irmf-3-6mm"
+  },
+  {
+    "name": "hikvision ds-2ae7230ti-a (30x) venkovn\u00ed 2 mpix speed dome hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ae7230ti-a--30x--venkovni-2-mpix-speed-dome-hd-tvi-kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97916/3697/ds-2ae7230ti-a"
+  },
+  {
+    "name": "hikvision ds-2ce56h1t-aitz (2.8-12mm)",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56h1t-aitz--2-8-12mm-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97786/3697/ds-2ce56h1t-aitz"
+  },
+  {
+    "name": "hikvision ds-2cc12d9t-e (bez objektivu) vnit\u0159n\u00ed 2 mpix box\u00a0hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0435 \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2cc12d9t--bez-objektivu-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/95876/3697/ds-2cc12d9t-e"
+  },
+  {
+    "name": "hikvision ds-2ce16d9t-airazh (5-50mm) venkovn\u00ed 2mp hd-tvi\u00a0bullet\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce16d9t-airazh--5-50mm--venkovni-2-mpix-turbo-hd--bullet--ip--kamera/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97703/3697/ds-2ce16d9t-airazh"
+  },
+  {
+    "name": "hikvision ds-2ce16h1t-it3 (3.6 mm) venkovn\u00ed 5 mpix hd-tvi bullet kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce16h1t-it3--3-6-mm-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97710/3697/ds-2ce16h1t-it3-36"
+  },
+  {
+    "name": "hikvision ds-2ce16c2t-ir (3.6mm)",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce16c2t-ir--3-6mm-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97665/3697/ds-2ce16c2t-ir-36"
+  },
+  {
+    "name": "hikvision ds-2ce16c2t-ir (2.8mm) venkovn\u00ed 1 mpix\u00a0turbo hd bullet ip\u00a0kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce16c2t-ir--2-8mm-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97664/3697/ds-2ce16c2t-ir-28"
+  },
+  {
+    "name": "hikvision ds-2ce56h1t-it3 (3.6mm) venkovn\u00ed 5mp dome ball hd-tvi kamera",
+    "availability_kenex": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "availability_eurosat": "\u041d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435",
+    "href_kenex": "https://www.kenex.cz/turbo-hd-kamery/hikvision-ds-2ce56h1t-it3--3-6mm-/",
+    "href_eurosat": "https://eshop.eurosat.cz/product/97789/3697/ds-2ce56h1t-it3"
+  }
+]

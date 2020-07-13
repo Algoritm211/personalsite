@@ -1,0 +1,1856 @@
+[
+  {
+    "name": "hikvision ds-2ce16h0t-itfs (3.6mm) aoc"
+  },
+  {
+    "name": "hikvision ds-2cd2343g0-iu (4mm) venkovn\u00ed\u00a04 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2126g1-is (2.8mm) acusense"
+  },
+  {
+    "name": "hikvision ds-2cd2125fwd-i (4mm) venkovn\u00ed 2mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2443g0-iw (psu)(2.8mm)"
+  },
+  {
+    "name": "hikvision ds-2cd2323g0-iu (2.8mm)"
+  },
+  {
+    "name": "hikvision ds-2cv2041g2-idw (2.8mm)"
+  },
+  {
+    "name": "hikvision ds-2cd1323g0e-i (2.8mm)"
+  },
+  {
+    "name": "hiwatch hwi-b121h-m (4mm)"
+  },
+  {
+    "name": "hiwatch hwi-b121h-m (2.8mm)"
+  },
+  {
+    "name": "hiwatch hwc-p100-d/w (2.8mm)"
+  },
+  {
+    "name": "hikvision ds-2cd2720f-i (2.8-12mm)"
+  },
+  {
+    "name": "hikvision ds-2cd2t45fwd-i8 (2.8mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2155fwd-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 5 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd5a26g0-izhs (8-32mm) venkovn\u00ed 2mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t45g0p-i (1.68mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2345g0p-i (1.68mm) venkovn\u00ed\u00a04 mp dome ball ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2343g0-i (2.8mm) \u010dern\u00e1 venkovn\u00ed\u00a04 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2041g1-idw1 (4mm) venkovn\u00ed 4 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2023g0-i (4mm) \u010dern\u00e1 venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2023g0-i (4mm) \u010dern\u00e1 venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2023g0-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2023g0-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2021g1-idw1 (4mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cv1021g0-idw1 (4mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2385fwd-i (4mm) venkovn\u00ed\u00a08 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2143g0-i (4mm) \u010dern\u00e1 venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2143g0-i (4mm) \u010dern\u00e1 venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2051g1-idw1 (4mm) venkovn\u00ed 5 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2423g0-i (4mm) vnit\u0159n\u00ed 2 mpix cube ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2343g0-iu (2.8mm) venkovn\u00ed\u00a04 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2543g0-is (4mm)"
+  },
+  {
+    "name": "hikvision ds-2cd2145fwd-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 4 mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2145fwd-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 4 mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2726g1-izs (2.8-12mm) acusense"
+  },
+  {
+    "name": "hikvision ds-2cd2646g1-izs (2.8-12mm) acusense"
+  },
+  {
+    "name": "hikvision ds-2cd2626g1-izs (2.8-12mm) acusense"
+  },
+  {
+    "name": "hikvision ds-2cd2146g1-i (4mm) acusense"
+  },
+  {
+    "name": "hikvision ds-2cd2146g1-i (2.8mm) acusense"
+  },
+  {
+    "name": "hikvision ds-2cd2126g1-i (4mm) acusense"
+  },
+  {
+    "name": "hikvision ds-2cd2126g1-i (2.8mm) acusense"
+  },
+  {
+    "name": "hikvision ds-2cd2t26g1-4i (2.8mm) acusense"
+  },
+  {
+    "name": "hikvision ds-2cd2346g1-i (2.8mm) acusense"
+  },
+  {
+    "name": "hikvision ds-2cd2326g1-i (2.8mm) acusense"
+  },
+  {
+    "name": "hyundai hyu-410 (2.8mm)"
+  },
+  {
+    "name": "hyundai hyu-605 (2.8mm)"
+  },
+  {
+    "name": "hyundai hyu-415 (2.8mm)"
+  },
+  {
+    "name": "hyundai hyu-416 (2.8mm)"
+  },
+  {
+    "name": "hyundai hyu-414 (2.8mm)"
+  },
+  {
+    "name": "hikvision ds-2ce16u7t-itf (2.8mm) starlight+ venkovn\u00ed 8 mp 4k bullet\u00a0kamera 4v1"
+  },
+  {
+    "name": "hikvision ds-2ce16u7t-itf (3.6mm) starlight+ venkovn\u00ed 8 mp 4k bullet\u00a0kamera 4v1"
+  },
+  {
+    "name": "hikvision ds-2ce57u7t-vpitf (2.8mm) starlight+ venkovn\u00ed 4k 8mp dome kamera 4v1"
+  },
+  {
+    "name": "hikvision ds-2ce57u7t-vpitf (3.6mm) starlight+ venkovn\u00ed 4k 8mp dome kamera 4v1"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-itmf (3.6mm) starlight+ venkovn\u00ed 2 mp\u00a0kamera 4v1"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-itmf (2.8mm) starlight+ venkovn\u00ed 2 mp\u00a0kamera 4v1"
+  },
+  {
+    "name": "hikvision ds-2cd6984g0-ih (4x 2.8mm)"
+  },
+  {
+    "name": "hikvision ds-2cd6d54fwd-izhs. 4xzoom. flexible panovu"
+  },
+  {
+    "name": "hikvision ds-2cd6924f-is (4x 6mm)"
+  },
+  {
+    "name": "hikvision ds-2ce78h8t-it3f (2.8mm) venkovn\u00ed 5 mpix\u00a0dome ball hd-tvi\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16h8t-itf (2.8mm) venkovn\u00ed 5 mpix\u00a0bullet analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2125g0-ims (2.8mm) hdmi v\u00fdstup vnit\u0159n\u00ed 2mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de1a400iw-de3 (2.8mm)"
+  },
+  {
+    "name": "hikvision ds-2cd2123g0-i (4mm) \u010dern\u00e1 venkovn\u00ed 2mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2123g0-i (4mm) \u010dern\u00e1 venkovn\u00ed 2mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce72dft-f (3.6mm) colorvu"
+  },
+  {
+    "name": "hikvision ds-2df8236i5x-aelw (36x)"
+  },
+  {
+    "name": "hikvision ds-2pt3306iz-de3 (2mm)"
+  },
+  {
+    "name": "hikvision ds-2cd6d24fwd-izs. 4xzoom. flexible panovu"
+  },
+  {
+    "name": "hikvision ds-2cd2t83g0-i5 (6mm) venkovn\u00ed 4k 8 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2323g0-i (2.8mm) \u0161ed\u00e1 venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2323g0-i (2.8mm) \u0161ed\u00e1 venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2523g0-i (2.8mm) \u0161ed\u00e1 venkovn\u00ed\u00a02 mp mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2523g0-i (2.8mm) \u0161ed\u00e1 venkovn\u00ed\u00a02 mp mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2141g1-idw1 (2.8mm) venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2121g1-idw1 (2.8mm) venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2051g1-idw1 (2.8mm) venkovn\u00ed 5 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2123g0-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 2mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2123g0-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 2mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2143g0-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2143g0-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2043g0-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 4 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2043g0-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 4 mpix ip kamera"
+  },
+  {
+    "name": "hiwatch hwt-d340-vf (2.8-12mm) venkovn\u00ed 4 mp hd-tvi dome\u00a0kamera"
+  },
+  {
+    "name": "hiwatch hwt-b340-vf (2.8-12mm) venkovn\u00ed 4 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-t340-vf (2.8-12mm) venkovn\u00ed 4 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-d320-vf (2.8-12mm) venkovn\u00ed 2 mp hd-tvi dome\u00a0kamera"
+  },
+  {
+    "name": "hiwatch hwt-t320-vf (2.8-12mm) venkovn\u00ed 2 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-b320-vf (2.8-12mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-t240-m (3.6mm) venkovn\u00ed 4 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t240-m (2.8mm) venkovn\u00ed 4 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-b240 (6mm) venkovn\u00ed 4 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b240 (3.6mm) venkovn\u00ed 4 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b240 (2.8mm) venkovn\u00ed 4 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-t240-p (6mm) venkovn\u00ed 4 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t240-p (3.6mm) venkovn\u00ed 4 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t240-p (2.8mm) venkovn\u00ed 4 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-b140-m (6mm) venkovn\u00ed 4 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b140-m (3.6mm) venkovn\u00ed 4 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b140-m (2.8mm) venkovn\u00ed 4 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b140-p (2.8mm) venkovn\u00ed 4 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b220-m (6mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b220-m (2.8mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-t220-m (3.6mm) venkovn\u00ed 2 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t220-m (2.8mm) venkovn\u00ed 2 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t140-p (3.6mm) vnit\u0159n\u00ed 4 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t140-p (2.8mm) vnit\u0159n\u00ed 4 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-b220 (6mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b220 (3.6mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b220 (2.8mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-t220-p (3.6mm) venkovn\u00ed 2 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t220-p (2.8mm) venkovn\u00ed 2 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-b120-m (3.6mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b120-m (2.8mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b120-p (3.6mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-b120-p (2.8mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwt-t120 (3.6mm) vnit\u0159n\u00ed 2 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t120 (2.8mm) vnit\u0159n\u00ed 2 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t120-p (6mm) vnit\u0159n\u00ed 2 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t120-p (3.6mm) vnit\u0159n\u00ed 2 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-t120-p (2.8mm) vnit\u0159n\u00ed 2 mp hd-tvi dome\u00a0ball kamera"
+  },
+  {
+    "name": "hiwatch hwt-b110-p (2.8mm) venkovn\u00ed 1 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hiwatch hwi-b620h-v (2.8-12mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-d140h-m (4mm) venkovn\u00ed 4 mpix dome ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-d140h-m (2.8mm) venkovn\u00ed 4 mpix dome ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-b140h (4mm) venkovn\u00ed 4 mpix bullet ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-b140h (2.8mm) venkovn\u00ed 4 mpix bullet ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-t240h (4mm) venkovn\u00ed 4 mpix dome ball ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-t240h (2.8mm) venkovn\u00ed 4 mpix dome ball ip kamera"
+  },
+  {
+    "name": "hiwatch hwc-c220-d/w (2.8mm) vnit\u0159n\u00ed 2 mpix cube ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-d120h-m (4mm) venkovn\u00ed 2 mpix dome ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-d120h-m (2.8mm) venkovn\u00ed 2 mpix dome ip kamera"
+  },
+  {
+    "name": "hiwatch hwc-p120-d/w (2.8mm) vnit\u0159n\u00ed 2 mpix speed dome ptz ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-t220h (4mm) venkovn\u00ed 2 mpix dome ball ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-t220h (2.8mm) venkovn\u00ed 2 mpix dome ball ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-b120h (2.8mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-b120 (4mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hiwatch hwi-b120 (2.8mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hiwatch hwc-c120-d/w (2.8mm) vnit\u0159n\u00ed 2 mpix cube ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2041g1-idw1 (2.8mm) venkovn\u00ed 4 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2021g1-idw1 (2.8mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cv1021g0-idw1 (b) (2.8mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hiwatch hwt-b220-m (3.6mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce57u1t-vpitf (3.6mm)"
+  },
+  {
+    "name": "hikvision ds-2ce79u1t-it3zf (2.7-13.5mm)"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-it3f (2.8mm) venkovn\u00ed 2 mpix\u00a0bullet analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-irf (2.8mm) venkovn\u00ed 2 mpix\u00a0bullet analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56h0t-it3zf (2.7-13.5mm) venkovn\u00ed 5 mpix\u00a0turret kamera 4v1"
+  },
+  {
+    "name": "hikvision ds-2ce56h0t-vpitf (3.6mm) venkovn\u00ed 5 mpix\u00a0box analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t45fwd-i5 (2.8mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t45fwd-i5 (4mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2543g0-is (2.8mm) venkovn\u00ed\u00a04 mp mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2523g0-iws (2.8mm) venkovn\u00ed\u00a02 mp mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2185fwd-i (4mm) venkovn\u00ed 8 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2145fwd-is (2.8mm) venkovn\u00ed 4 mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2045fwd-i (4mm) venkovn\u00ed 4 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1623g0-iz (2.8-12mm) venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1123g0-i (4mm) venkovn\u00ed 2 mpix dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de4a404iw-de (4x) venkovn\u00ed 4 mpix\u00a0speed dome ptz ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ae7232ti-a (32x) venkovn\u00ed 2 mpix speed dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1023g0-i (4mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1043g0-i (4mm) venkovn\u00ed 4 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1143g0-i (4mm) venkovn\u00ed 4 mpix dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1723g0-i (2.8-12mm) venkovn\u00ed 2 mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1723g0-iz (2.8-12mm) venkovn\u00ed 2 mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1743g0-i (2.8-12mm) venkovn\u00ed 4 mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1h43g0-iz (2.8-12mm) venkovn\u00ed 4 mpix dome ball ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1h23g0-iz (2.8-12mm) venkovn\u00ed 2 mpix dome ball ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2423g0-i (2.8mm) vnit\u0159n\u00ed 2 mpix cube ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2443g0-i (2.8mm) vnit\u0159n\u00ed 4 mpix cube ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2d21g0/m-d/nf (2.8mm) vnit\u0159n\u00ed 2 mpix mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2d21g0-d/nf (3.7mm) vnit\u0159n\u00ed 2 mpix mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce12h0t-pirl (2.8mm) venkovn\u00ed 5 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16h0t-it3e (6mm) poc venkovn\u00ed 5 mp hd-tvi bullet\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16h0t-ite (2.8 mm) poc venkovn\u00ed 5 mp hd-tvi bullet\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce11h0t-pirl (3.6mm) venkovn\u00ed 5 mp\u00a0bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce11h0t-pirl (2.8mm) venkovn\u00ed 5 mp\u00a0bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce57u1t-vpitf (2.8mm) venkovn\u00ed 4k 8mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce59h8t-avpit3zf (2.7-13.5mm) venkovn\u00ed 5mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce59u1t-avpit3zf (2.7-13.5mm) venkovn\u00ed 4k 8mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce71h0t-pirl (2.8mm) venkovn\u00ed 5 mp dome ball hd-tvi\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce71h0t-pirl (3.6mm) venkovn\u00ed 5 mp dome ball hd-tvi\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2de5232iw-ae (c) (32x) venkovn\u00ed 2 mpix\u00a0ptz speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de5432iw-ae (c) (32x) venkovn\u00ed 4 mpix\u00a0ptz speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2085g1-i (2.8mm) venkovn\u00ed 8 mpix 4k ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce12d0t-pirl (3.6mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce12d0t-pirl (2.8mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2045fwd-i (2.8mm) venkovn\u00ed 4 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-vpite (2.8mm) starlight. poc venkovn\u00ed 2mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2de4a204iw-de (4x) venkovn\u00ed 2 mpix\u00a0speed dome ptz ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd5a26g0-izhs (2.8-12mm) venkovn\u00ed 2mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2h25fhwd-izs (2.8-12mm) venkovn\u00ed 2 mpix\u00a0dome ball ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2345fwd-i (2.8mm) venkovn\u00ed\u00a04 mp dome ball ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2345fwd-i (4mm) venkovn\u00ed\u00a04 mp dome ball ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2425fwd-iw (2.8mm) vnit\u0159n\u00ed 2 mpix cube kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t45fwd-i8 (4mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de2a204iw-de3 (4x) (c) ptz 2mpx\u00a0speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de2a404iw-de3 (4x) ptz 4mpx\u00a0speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce17u8t-it (3.6 mm) starlight+ venkovn\u00ed 8 mp 4k\u00a0bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2123g0-i (6mm) venkovn\u00ed 2mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2525fwd-iws (2.8mm) venkovn\u00ed\u00a02 mp dome mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2343g0-i (6mm) venkovn\u00ed\u00a04 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2343g0-i (4mm) venkovn\u00ed\u00a04 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de5225w-ae (25x) venkovn\u00ed 2 mpix\u00a0ptz speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de5225iw-ae (25x) venkovn\u00ed 2 mpix\u00a0ptz speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t85fwd-i8 (2.8mm) venkovn\u00ed 8 mpix bullet 4k\u00a0ip\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t83g0-i5 (4mm) venkovn\u00ed 4k 8 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2543g0-i (2.8mm) venkovn\u00ed\u00a04 mp mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2525fwd-is (2.8mm) venkovn\u00ed\u00a02 mp mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2525fwd-i (2.8mm) venkovn\u00ed\u00a02 mp mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2523g0-iws (4mm) venkovn\u00ed\u00a02 mp mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2523g0-i (2.8mm) venkovn\u00ed\u00a02 mp mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2443g0-iw (2.8mm) vnit\u0159n\u00ed 4 mpix cube kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2423g0-iw (2.8mm) vnit\u0159n\u00ed 2 mpix cube kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2145fwd-i (4mm) venkovn\u00ed 4 mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2145fwd-i (2.8mm) venkovn\u00ed 4 mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2145fwd-i (2.8mm) venkovn\u00ed 4 mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1743g0-iz (2.8-12mm) venkovn\u00ed 4 mp dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1643g0-iz (2.8-12mm) venkovn\u00ed 4 mp bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1343g0-i (4mm) venkovn\u00ed 4 mpix mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1323g0-i (2.8mm) venkovn\u00ed 2 mpix mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1143g0-i (2.8mm) venkovn\u00ed 4 mpix dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1123g0-i (2.8mm) venkovn\u00ed 2 mpix dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1043g0-i (2.8mm) venkovn\u00ed 4 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1023g0-i (2.8mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56h0t-vpitf (2.8mm) venkovn\u00ed 5 mpix\u00a0box analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce78u8t-it3 (3.6mm) venkovn\u00ed 4k 8 mp hd-tvi dome ball\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce78u8t-it3 (2.8mm) venkovn\u00ed 4k 8 mp hd-tvi dome ball\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce57u8t-vpit (2.8mm) venkovn\u00ed 4k 8mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce57u8t-vpit (3.6mm) venkovn\u00ed 4k 8mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce18u8t-it3 (3.6mm) starlight+ venkovn\u00ed 8 mp 4k\u00a0bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce18u8t-it3 (2.8mm) starlight+ venkovn\u00ed 8 mp 4k\u00a0bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce5ad8t-vpit3z (2.8 - 12mm) starlight venkovn\u00ed 2mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce59u8t-avpit3z (2.8 - 12 mm) starlight+ venkovn\u00ed 4k 8mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cc12d9t-it5e (3.6mm) starlight+ venkovn\u00ed 2 mpix\u00a0bullet\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2h85fwd-izs (2.8-12mm) venkovn\u00ed 4k 8mp\u00a0turret\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2555fwd-i (2.8mm) venkovn\u00ed\u00a05 mpix mini ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce71d8t-pirl (3.6mm) venkovn\u00ed 2 mp hd-tvi\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-it3e (3.6mm) poc venkovn\u00ed 2 mpix\u00a0dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce38d8t-pir (3.6mm) vnit\u0159n\u00ed 2 mp cube hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce38d8t-pir (2.8mm) vnit\u0159n\u00ed 2 mp cube hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce37u8t-a (bez objektivu) 4k 8 mpix hd-tvi box kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-it3 (3.6 mm) venkovn\u00ed\u00a02mp bullet\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce12d8t-pirl (3.6mm) starlight venkovn\u00ed 2 mp\u00a0bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce12d8t-pirl (2.8mm) starlight venkovn\u00ed 2 mp\u00a0bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t83g0-i8 (4mm) venkovn\u00ed 4k 8 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t83g0-i8 (2.8mm) venkovn\u00ed 4k 8 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t83g0-i5 (2.8mm) venkovn\u00ed 4k 8 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t63g0-i8 (4mm) venkovn\u00ed 6 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t63g0-i8 (2.8mm) venkovn\u00ed 6 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t63g0-i5 (2.8mm) venkovn\u00ed 6 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t43g0-i8 (6mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t43g0-i8 (2.8mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t43g0-i5 (6mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t43g0-i5 (4mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t23g0-i8 (6mm) venkovn\u00ed 2 mp\u00a0bullet\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t23g0-i8 (4mm) venkovn\u00ed 2 mp\u00a0bullet\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t23g0-i5 (6mm) venkovn\u00ed 2 mp\u00a0bullet\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2363g0-i (2.8mm) venkovn\u00ed\u00a06mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2323g0-i (6mm) venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2323g0-i (4mm) venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2183g0-is (2.8mm) venkovn\u00ed\u00a04k 8 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2183g0-i (4mm) venkovn\u00ed\u00a04k 8 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2163g0-is (2.8mm) venkovn\u00ed\u00a06 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2163g0-i (6mm) venkovn\u00ed\u00a06 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2163g0-i (4mm) venkovn\u00ed\u00a06 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2143g0-is (4mm) venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2143g0-i (6mm) venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2123g0-is (2.8mm) venkovn\u00ed 2mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2083g0-i (6mm) venkovn\u00ed 4k 8mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2083g0-i (4mm) venkovn\u00ed 4k 8mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2083g0-i (2.8mm) venkovn\u00ed 4k 8mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2063g0-i (4mm) venkovn\u00ed 6 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2043g0-i (6mm) venkovn\u00ed 4 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2043g0-i (4mm) venkovn\u00ed 4 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2023g0-i (6mm) venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2023g0-i (4mm) venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ae4215ti-d (15x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi\u00a0ptz kamera"
+  },
+  {
+    "name": "hikvision ds-2ae4215t-d (15x) venkovn\u00ed 2 mp speed dome\u00a0hd-tvi ptz kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56h0t-itmf (2.8mm) venkovn\u00ed 5 mpix\u00a0turret analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56h0t-it3f (2.8mm) venkovn\u00ed 5 mpix\u00a0turret analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-it3f (2.8mm) venkovn\u00ed 2 mpix\u00a0turret analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-it1f (2.8mm) venkovn\u00ed 2 mpix\u00a0turret analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16h0t-itf (2.8mm) venkovn\u00ed 5 mpix\u00a0bullet analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16h0t-it5f (3.6mm) venkovn\u00ed 5 mpix\u00a0bullet\u00a0analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16h0t-it3f (2.8mm) venkovn\u00ed 5 mpix\u00a0bullet analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56h5t-itme (2.8mm) starlight poc venkovn\u00ed 5 mp hd-tvi dome ball\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-vpir3e (2.8-12mm) poc venkovn\u00ed 2mp\u00a0dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-it3 (3.6mm) venkovn\u00ed 2 mpix\u00a0dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce11d8t-pirl (2.8mm) venkovn\u00ed 2 mp\u00a0bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cc52h1t-fits (1.1mm) vnit\u0159n\u00ed 5 mpix\u00a0dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-ire (3.6mm) poc venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2df8225ix-ael (25x) venkovn\u00ed 2 mpix\u00a0speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de7530iw-ae (30x) venkovn\u00ed 5 mpix\u00a0speed dome pzt ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de7430iw-ae (30x) venkovn\u00ed 4 mpix\u00a0speed dome pzt ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de7232iw-ae (32x) venkovn\u00ed 2 mpix\u00a0speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de7225iw-ae (25x) venkovn\u00ed 2 mp\u00a0speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de4a215iw-de (15x) (c) venkovn\u00ed 2 mpix\u00a0speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de4225iw-de (25x) venkovn\u00ed 2 mpix\u00a0speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2de4215iw-de (15x) venkovn\u00ed 2 mpix\u00a0speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2h83g0-izs (2.8-12mm) venkovn\u00ed 4k 8mp\u00a0turret\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2h63g0-izs (2.8-12mm) venkovn\u00ed 6 mp\u00a0turret\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2763g0-izs (2.8-12mm) venkovn\u00ed 6mpx ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2683g0-izs (2.8-12mm) venkovn\u00ed bullet 4k 8 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2663g0-izs (2.8-12mm) venkovn\u00ed bullet 6 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2383g0-i (2.8mm) venkovn\u00ed\u00a04k 8mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2063g0-i (2.8mm) venkovn\u00ed 6 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ae5232t-a (32x) venkovn\u00ed 2 mp speed dome\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ae5225ti-a (25x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ae5225t-a (25x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ae4225ti-d (e) (25x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi\u00a0 kamera"
+  },
+  {
+    "name": "hikvision ds-2ae4225t-d (25x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce71d8t-pirl (2.8mm) venkovn\u00ed 2 mp hd-tvi\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56h5t-vpit3ze (2.8 - 12mm) starlight poc venkovn\u00ed 5mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-ire (2.8mm) poc venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2183g0-i (2.8mm) venkovn\u00ed\u00a04k 8 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2163g0-i (2.8mm) venkovn\u00ed\u00a06 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16h5t-it3ze (2.8 -12mm) starlight poc venkovn\u00ed 5 mp hd-tvi bullet\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d8t-it (2.8mm) starlight venkovn\u00ed 2 mpix\u00a0exir bullet\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2783g0-izs (2.8-12mm) venkovn\u00ed 4k 8mpx ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56h5t-it3ze (2.8-12mm) starlight poc venkovn\u00ed 5 mp hd-tvi dome ball\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-vfir3f (2.8-12mm) venkovn\u00ed 2 mpix\u00a0dome ball analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2pt3326iz-de3 vnit\u0159n\u00ed 6+2mpx (ptz)\u00a0panoramatick\u00e1 ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-ir (2.8mm) venkovn\u00ed 2 mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-vfir3f (2.8-12mm) venkovn\u00ed 2mp hd-tvi. cvi. ahd. analog kamera 4v1 s ir do 40m"
+  },
+  {
+    "name": "hikvision ds-2ce16d8t-ite (2.8mm) starlight poc venkovn\u00ed 2 mp hd-tvi bullet\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce17u8t-it (2.8 mm) starlight+ venkovn\u00ed 8 mp 4k\u00a0bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce19u8t-ait3z (2.8 - 12 mm) starlight+ venkovn\u00ed 8 mp 4k\u00a0bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-it3 (6mm) venkovn\u00ed 2 mp\u00a0dome ball hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-it3e (2.8mm) poc venkovn\u00ed 2 mpix\u00a0dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-it3e (2.8mm) starlight poc venkovn\u00ed 2 mp hd-tvi dome ball\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce79u8t-it3z (2.8 - 12 mm) starlight+ venkovn\u00ed 4k 8 mp hd-tvi dome ball\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t43g0-i8 (4mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t43g0-i5 (2.8mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t25fwd-i8 (2.8mm) \u010dern\u00e1 venkovn\u00ed 2 mp bullet\u00a0ip\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t23g0-i8 (2.8mm) venkovn\u00ed 2 mp\u00a0bullet\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t23g0-i5 (4mm) venkovn\u00ed 2 mp\u00a0bullet\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t23g0-i5 (2.8mm) venkovn\u00ed 2 mp\u00a0bullet\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2h43g0-izs (2.8-12mm) venkovn\u00ed 4 mp\u00a0turret\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2h23g0-izs (2.8-12mm) venkovn\u00ed 2 mp\u00a0turret\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2743g0-izs (2.8-12mm) venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2723g0-izs (2.8-12mm) venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) mini a maskovan\u00e9 kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-vpit3ze (2.8-12mm) starlight poc venkovn\u00ed 2mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d8t-it3ze (2.8 -12mm) starlight. poc venkovn\u00ed 2mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2643g0-izs (2.8-12mm) venkovn\u00ed 4 mp\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2625fwd-izs (2.8-12mm) \u010dern\u00e1 venkovn\u00ed bullet 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2623g0-izs (2.8-12mm) venkovn\u00ed bullet 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d8t-it5e (3.6mm) starlight. poc venkovn\u00ed 2mp bullet hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2343g0-i (2.8mm) venkovn\u00ed\u00a04 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-itme (2.8mm) starlight. poc venkovn\u00ed 2mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2323g0-i (2.8mm) venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2143g0-is (2.8mm) venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2143g0-i (4mm) venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2143g0-i (2.8mm) venkovn\u00ed 4 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2125fwd-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 2mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2123g0-i (4mm) venkovn\u00ed 2mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2123g0-i (2.8mm) venkovn\u00ed 2mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2043g0-i (2.8mm) venkovn\u00ed 4 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2025fwd-i (2.8mm) \u010dern\u00e1 venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2023g0-i (2.8mm) venkovn\u00ed 2 mp ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-it3ze (2.8-12mm) starlight. poc venkovn\u00ed 2 mpix turbo\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2625fwd-izs (2.8-12mm) venkovn\u00ed bullet 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2125fwd-i (6mm) venkovn\u00ed  mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2325fwd-i (2.8mm) venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ae5223ti-a (23x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ae4223t-a (23x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2355fwd-i (2.8mm) venkovn\u00ed\u00a05.0 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2185fwd-is (4mm) venkovn\u00ed 8 mpix\u00a0dome\u00a04k ip\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2185fwd-i (2.8mm) venkovn\u00ed 8 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2135fwd-is (2.8mm) venkovn\u00ed 3 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2125fwd-is (2.8mm) venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2125fwd-i (2.8mm) venkovn\u00ed 2mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2385fwd-i (2.8mm) venkovn\u00ed\u00a08 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-it3ze/g (2.8-12mm) \u0161ed\u00e1 starlight. poc venkovn\u00ed 2 mpix turbo\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d8t-it3e (2.8mm) starlight. poc venkovn\u00ed 2 mpix\u00a0exir bullet\u00a0hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2025fwd-i (4mm) venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd1621fwd-iz (2.8-12mm) venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2h55fwd-izs (2.8-12mm) venkovn\u00ed 5 mpix turret\u00a0ip\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2h25fwd-izs (2.8-12mm) venkovn\u00ed 2 mpix\u00a0turret\u00a0ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2325fwd-i (4mm) venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d8t-it3 (2.8mm) starlight venkovn\u00ed 2 mp\u00a0hd-tvi dome ball\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-irp (2.8mm) venkovn\u00ed 2 mpix bullet turbo hd kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t25fwd-i8 (2.8mm) venkovn\u00ed 2 mpix bullet\u00a0ip\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ae4223ti-d (23x) venkovn\u00ed 2 mpix speed dome\u00a0hd-tvi\u00a0 kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2725fwd-izs (2.8-12mm) venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cc52d9t-it3e (2.8mm) starlight+ venkovn\u00ed 2mp dome ball hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2685fwd-izs (2.8-12mm) venkovn\u00ed bullet 8 mpix ip 4k kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2025fwd-i (2.8mm) venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t85fwd-i5 (4mm) venkovn\u00ed 8 mpix\u00a0bullet 4k ip\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t25fwd-i5 (2.8mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t25fwd-i8 (6mm) venkovn\u00ed 2 mpix bullet\u00a0ip\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2325fwd-i (6mm) venkovn\u00ed 2 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2955fwd-i (1.05mm) vnit\u0159n\u00ed 5 mpix fish eye ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-it3 (2.8mm) venkovn\u00ed 2 mpix\u00a0dome hd-tvi kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) v pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm) s pir"
+  },
+  {
+    "name": "hikvision ds-2cd6510dt-io (4 mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102ph (3.7mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-102 (3.7mm)"
+  },
+  {
+    "name": "hikvision ds-2cd2t55fwd-i8 (4mm) venkovn\u00ed 5 mpix\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd4b36fwd-izs (2.8-12mm) venkovn\u00ed 3 mp bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd4026fwd/p-l (3.8-16mm) pro \u010dten\u00ed spz"
+  },
+  {
+    "name": "hikvision ds-2cd4026fwd/p-l (11-40mm) pro \u010dten\u00ed spz"
+  },
+  {
+    "name": "hikvision ds-2cd4a26fwd-izs/p (2.8-12mm) pro \u010dten\u00ed spz"
+  },
+  {
+    "name": "hikvision ds-2cd4a26fwd-izhs/p (2.8-12mm) pro \u010dten\u00ed spz"
+  },
+  {
+    "name": "hikvision ds-2cd4a26fwd-izs/p (8-32mm) pro \u010dten\u00ed spz"
+  },
+  {
+    "name": "hikvision ds-2cd4a26fwd-izhs/p (8-32mm) pro \u010dten\u00ed spz"
+  },
+  {
+    "name": "hikvision ds-2cd4a26fwd-lzs/p (2.8-12mm) pro \u010dten\u00ed spz"
+  },
+  {
+    "name": "hikvision ds-2cc52d9t-avpit3ze (2.8-12mm) starlight+ poc venkovn\u00ed 2mp dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2085fwd-i (b) (2.8mm) venkovn\u00ed 8 mpix 4k ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2185fwd-is (2.8mm) venkovn\u00ed\u00a08 mpix 4k ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t85fwd-i5 (2.8mm) venkovn\u00ed 8 mpix bullet 4k\u00a0ip\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t85fwd-i8 (b) (4mm) venkovn\u00ed 8 mpix bullet 4k\u00a0ip\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2935fwd-i (1.16mm) vnit\u0159n\u00ed 3 mpix fisheye ip kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-it5f (3.6 mm) venkovn\u00ed 2 mpix\u00a0bullet analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-it3f (3.6 mm) venkovn\u00ed 2 mpix\u00a0bullet analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-irf (3.6mm) venkovn\u00ed 2 mpix\u00a0bullet analogov\u00e1\u00a0kamera"
+  },
+  {
+    "name": "camvia 4v1 cv-s200thc60s (2.8-12mm)"
+  },
+  {
+    "name": "camvia 4v1 cv-s200thc40y (3.6mm)"
+  },
+  {
+    "name": "camvia cv-tv130pat36 (3.6mm)"
+  },
+  {
+    "name": "hikvision ds-2ae7230ti-a (30x) venkovn\u00ed 2 mpix speed dome hd-tvi kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d9t-airazh (5-50mm) venkovn\u00ed 2mp hd-tvi\u00a0bullet\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d0t-it5 (3.6 mm) venkovn\u00ed 2 mpix\u00a0hd-tvi bullet\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce16d5t-ir (3.6mm) venkovn\u00ed 2 mpix\u00a0bullet turbo hd\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-irm (3.6mm) 2 mpix hd-tvi dome\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2ce56d0t-irm (2.8mm) 2 mpix hd-tvi dome\u00a0kamera"
+  },
+  {
+    "name": "hikvision ds-2de3204w-de (4x) venkovn\u00ed 2 mpix\u00a0speed dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd4d36fwd-izs (2.8-12mm) venkovn\u00ed 3 mpix dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2335fwd-i (2.8mm) venkovn\u00ed 3 mpix\u00a0turret ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2155fwd-i (2.8mm) venkovn\u00ed 5 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2055fwd-i (2.8mm) venkovn\u00ed 5 mpix ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd2t55fwd-i5 (2.8mm) venkovn\u00ed 5 mpix\u00a0bullet ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd4d26fwd-izs (2.8-12mm) venkovn\u00ed 2 mpix darkfighter dome ip kamera"
+  },
+  {
+    "name": "hikvision ds-2cd4b26fwd-izs (2.8-12mm) venkovn\u00ed 2 mpix bullet ip kamera"
+  },
+  {
+    "name": "camvia cv-tv130s (3.7mm)"
+  }
+]

@@ -1,0 +1,18 @@
+{% extends 'main/posts_list.html' %}
+
+{% block title %}
+    Удалить предмет "{{ subject.title | title }}"
+{% endblock %}
+
+{% block content %}
+<div class="col-6 offset -md-2 mt-5" style="margin-left: auto; margin-right: auto;">
+    <form action="{{ subject.get_delete_url }}" method="post">
+        {% csrf_token %}
+        <h3><b>Вы уверены, что хотите удалить предмет "{{ subject.title | title }}"?</b></h3>
+        <a href="{{ subject.get_absolute_url }}"> Нет, вернуться обратно </a>
+        <button type="submit" name="button" class="btn btn-danger mb-5"> Удалить </button>
+
+    </form>
+</div>
+
+{% endblock %}

@@ -1,0 +1,24 @@
+
+
+<div class="card mb-3 center mb-5 bg-light " style="width: 750px; box-shadow: 7px 7px 5px rgba(0,0,0,0.6); border-radius: 30px; margin-left: auto; margin-right: auto">
+  <div class="card-header ">
+    {{post.date_pubs}}
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">{{post.title}}</h5>
+    <p class="card-text ">{{post.body|truncatewords:20}}</p>
+    <a href="{{ post.get_absolute_url }}" class="btn btn-dark">Читать</a>
+  </div>
+
+  <div class="card-footer ">
+    Тэги:
+
+    {% for tag in post.tags.all %}
+     <a class="card-tag text-dark" href="{{ tag.get_absolute_url }}">{{ tag.title }}</a>
+    {% endfor %}
+   </div>
+
+</div>
+
+<!--{{ post.get_absolute_url }}-->
+<!--{{ tag.get_absolute_url }}-->

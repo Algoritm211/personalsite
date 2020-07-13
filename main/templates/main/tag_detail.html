@@ -1,0 +1,16 @@
+{% extends 'main/main_page.html' %}
+
+{% block title %}
+{{ tag.title }}
+{% endblock %}
+
+{% block content %}
+<h1 class="mt-5"> Записи, связанные с тегом "{{tag.title | title }}"</h1>
+    {% for post in tag.posts.all %}
+        {% include 'main/includes/post_card_block.html' %}
+    {% endfor %}
+{% endblock %}
+
+{% block contacts %}
+{{ block.super }}
+{% endblock %}

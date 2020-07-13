@@ -1,0 +1,19 @@
+{% extends 'main/posts_list.html' %}
+
+{% block title %}
+    Список предметов
+{% endblock %}
+
+
+{% block content %}
+    {% for subject in subjects %}
+
+        {% include 'main/includes/subjects_card_block.html' %}
+
+    {% endfor %}
+{% endblock %}
+
+
+{% block contacts %}
+ {{ block.super }}
+{% endblock %}

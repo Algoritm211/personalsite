@@ -1,0 +1,27 @@
+{% extends 'main/posts_list.html' %}
+
+{% block title %}
+Обновить предмет {{ subject.title }}
+{% endblock%}
+
+{% block content %}
+<div class="col-6 offset -md-2 mt-5" style="margin-left: auto; margin-right: auto;">
+
+    <form action="{{ subject.get_update_url }}" method="post" >
+        {% csrf_token %}
+
+        {% for field in form  %}
+             <div class="form-group">
+                 {% if field.errors %}
+                  <div class="alert alert-danger">
+                      {{ field.errors }}
+                  </div>
+                 {% endif %}
+                {{ field.label }}
+                 {{ field }}
+             </div>
+        {% endfor %}
+        <button type="submit" class="btn btn-dark mb-5"> Обновить предмет </button>
+    </form>
+</div>
+{% endblock %}

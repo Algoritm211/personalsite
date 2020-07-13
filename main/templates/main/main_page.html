@@ -1,0 +1,32 @@
+{% extends 'main/template_for_all/main.html' %}
+
+{% block title %}
+    Main page
+{% endblock %}
+
+{% block content %}
+<h1 class="main-title">Всем привет</h1>
+
+ <div class="btn-group btn-group-toggle hover-desc" data-toggle="buttons">
+      <a class="btn btn-secondary" id="list-home-list" data-toggle="list" href="#list-eng" role="button" aria-controls="eng">🇬🇧English🇬🇧</a>
+      <a class="btn btn-secondary" id="list-profile-list" data-toggle="list" href="#list-rus" role="button" aria-controls="rus">🇷🇺Русский🇷🇺</a>
+ </div>
+
+  <p id="eng"><img class="settings-main-photo" src="/static/images/me.jpg" width="400" height="400"
+    alt="Персональное фото" align="left"
+                   vspace="5" hspace="5"></p>
+<div class="tab-content font-descriptions" id="nav-tabContent">
+  <div class="tab-pane fade" id="list-eng" role="tabpanel" aria-labelledby="list-home-list">
+      <p>{{ Maininfo.desc_eng }}</p>
+  </div>
+
+  <div class="tab-pane fade show active" id="list-rus" role="tabpanel" aria-labelledby="list-home-list">
+  <p>{{ Maininfo.desc_rus }}</p>
+
+  </div>
+</div>
+{% endblock %}
+
+{% block contacts %}
+{{ block.super }}
+{% endblock %}

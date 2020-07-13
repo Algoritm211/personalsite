@@ -1,0 +1,75 @@
+@font-face {
+    font-family: ProcyonShadowItalic;
+    src: url('../fonts/main_title_font.otf');
+}
+
+@font-face {
+    font-family: Caxton;
+    src: url('../fonts/Caxton.otf');
+}
+
+body {
+    background: #f5f5dc;
+}
+
+.main-title {
+    font-family: ProcyonShadowItalic;
+    font-size: 100pt;
+    text-align: center;
+}
+
+.blog-main-title {
+    font-family: ProcyonShadowItalic;
+    font-size: 50pt;
+}
+
+.settings-main-photo {
+    margin-right: 30px;
+    box-shadow: 7px 7px 5px rgba(0,0,0,0.6); /* Тень */
+    padding: 2px; /* Поля вокруг текста */
+    border-radius: 20px; /* Радиус скругления */
+    margin-bottom: 40px;
+}
+
+
+.hover-desc {
+    float: right;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 20px;
+
+}
+
+.font-descriptions {
+    font-family: Caxton;
+    margin-right: 20px;
+}
+
+.card-tag {
+    font-family: Caxton;
+    margin: 20px;
+}
+
+.admin-panel {
+    border: 1px solid #999;
+    border-radius: 10px;
+    position: fixed;
+    right: 50px;
+    bottom: 30px;
+    opacity: 0.3;
+    padding: 14px;
+
+}
+
+.admin-panel:hover {
+    opacity: 1;
+}
+
+.admin-panel a {
+    display: block;
+    margin: 5px 0;
+}
+
+a.edit, a.delete {
+    display: none;
+}

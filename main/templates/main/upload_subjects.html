@@ -1,0 +1,16 @@
+{% extends 'main/posts_list.html' %}
+
+{% block title %}
+    Загрузить предметы
+{% endblock %}
+
+{% block content %}
+    <div class="col-6 offset -md-2 mt-5" style="margin-left: auto; margin-right: auto;">
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+             {{ form.as_p }}
+            <button type="submit" class="btn btn-dark mb-5"> Загрузить файл </button>
+        </form>
+
+    </div>
+{% endblock %}

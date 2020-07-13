@@ -1,0 +1,30 @@
+{% extends 'main/main_page.html' %}
+
+{% block title %}
+{{ post.title }}
+{% endblock %}
+
+{% block content %}
+<h1 class="blog-main-title mb-5 ml-5">
+    {{post.title}}
+  </h1>
+  <p align="center ">
+  {{post.body}}
+</p>
+<br>
+<h2 class="card-tag mb-2">Метки:</h2>
+{% for tag in post.tags.all %}
+     <a class="card-tag text-white" style="background: #000000; padding: 2px;" href="{{ tag.get_absolute_url }}">{{ tag.title }}</a>
+    {% endfor %}
+<br>
+<br>
+
+{% include 'main/includes/comments.html' with url=post.slug %}
+
+{% endblock %}
+
+
+
+{% block contacts %}
+{{ block.super }}
+{% endblock %}

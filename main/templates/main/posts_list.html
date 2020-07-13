@@ -1,0 +1,20 @@
+{% extends 'main/main_page.html' %}
+
+{% block title %}
+Последние записи
+{% endblock %}
+
+{% block content %}
+<h1 class="blog-main-title mb-5 ml-5">Последние записи: </h1>
+
+{% for post in posts %}
+
+{% include 'main/includes/post_card_block.html' %}
+
+{% endfor %}
+
+{% endblock %}
+
+{% block contacts %}
+{{ block.super }}
+{% endblock %}
