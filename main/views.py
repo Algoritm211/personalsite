@@ -5,6 +5,7 @@ from django.views.generic import View
 from .forms import TagForm, PostForm, FilesForm, SubjectForm
 from django.views.generic.edit import FormView
 import mimetypes
+from django.http import FileResponse
 from .utils import ObjectDetailMixin
 from django.core.files.storage import FileSystemStorage
 from django.contrib.auth.mixins import LoginRequiredMixin #Миксин для ограничения доступа
@@ -228,10 +229,11 @@ class UniversitySubjectDetail(ObjectDetailMixin, View):
 
 def download_file(request, filepath):
     fl_path = filepath
-    fl = open(fl_path, 'r')
-    mime_type, _ = mimetypes.guess_type(fl_path)
-    response = HttpResponse(fl, content_type=mime_type)
-    response['Content-Disposition'] = "attachment; filename=%s" % 'file_1'
+    # fl_path_repl = fl_path.replace('//', '/')
+    response = FileResponse(open(fl_path, 'rb'))
+    # mime_type, _ = mimetypes.guess_type(fl_path)
+    # response = HttpResponse(fl, content_type=mime_type)
+    # response['Content-Disposition'] = "attachment; filename=%s" % 'file_1'
     return response
 
 

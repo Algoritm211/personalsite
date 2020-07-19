@@ -19,7 +19,7 @@
                     <td>{{ file.title }}</td>
                     <td>{{ file.date_upload }}</td>
                     <td>
-                        <a href="{% url 'download_subject_file' file.file.url %}" class="btn btn-dark"> Скачать файл </a>
+                        <a href="{% url 'download_subject_file' file.file.url|slice:'1::' %}" class="btn btn-dark"> Скачать файл </a>
                     </td>
                 </tr>
             {% endfor %}

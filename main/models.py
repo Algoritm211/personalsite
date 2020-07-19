@@ -41,6 +41,7 @@ class Post(models.Model):
     class Meta:
         verbose_name = 'Запись'
         verbose_name_plural = 'Записи'
+        ordering = ['-date_pubs']
 
 
 class Tag(models.Model):

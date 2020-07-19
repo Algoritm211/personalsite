@@ -1,9 +1,10 @@
-from django.urls import path
+from django.urls import path, re_path
 from django.conf import settings
-from django.conf.urls.static import static
+from django.conf.urls.static import static, serve
 
 from .views import *
 
+# settings.MEDIA_URL = 'media/'
 urlpatterns = [
     path('', index, name='main_page'),
     path('myblog/', posts_list, name='posts_list_url'),
@@ -22,8 +23,9 @@ urlpatterns = [
     path('subjects/<str:slug>/update', UniversitySubjectUpdate.as_view(), name='subject_update'),
     path('subjects/<str:slug>/delete', UniversitySubjectDelete.as_view(), name='subject_delete'),
     path('myworks/', myworks_list, name='my_works_list'),
-    path('<path:filepath>/', download_file, name='download_subject_file')
+    # path('<path:filepath>/', download_file, name='download_subject_file')
 ]
 
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+

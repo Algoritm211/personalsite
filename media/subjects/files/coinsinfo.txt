@@ -1,4 +1,0 @@
-(359238758, 'Alexandr', '{BTC}')
-(531165173, 'Otto', '{ETH,ETHBULL,ZEC,BEAR,NEO,BULL,LTC,BTC}')
-(402954445, 'Alex', '{ADA,BTC}')
-(422760680, 'Дмитрий', '{XRP,ETH,BTC,ADA}')

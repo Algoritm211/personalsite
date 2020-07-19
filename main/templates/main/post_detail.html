@@ -8,9 +8,11 @@
 <h1 class="blog-main-title mb-5 ml-5">
     {{post.title}}
   </h1>
-  <p align="center ">
-  {{post.body}}
+<div style="width: 900px; margin-left: auto; margin-right: auto;">
+      <p>
+          {{post.body|safe}}
 </p>
+</div>
 <br>
 <h2 class="card-tag mb-2">Метки:</h2>
 {% for tag in post.tags.all %}

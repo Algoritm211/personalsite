@@ -14,11 +14,25 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path, include
 from .views import redirect_to_main
+from django.urls import include, path, re_path
+from django.views.static import serve
+from django.conf import settings
+from main.views import download_file
+
 
 urlpatterns = [
     path('', redirect_to_main),
     path('admin/', admin.site.urls),
-    path('main/', include('main.urls'))
+    path('summernote/', include('django_summernote.urls')),
+    path('main/', include('main.urls')),
+    path('<path:filepath>/', download_file, name='download_subject_file'),
+
 ]
+
+if settings.DEBUG:
+    urlpatterns += [
+        re_path(r'^media/(?P<path>.*)$', serve, {
+            'document_root': settings.MEDIA_ROOT
+        })
+    ]

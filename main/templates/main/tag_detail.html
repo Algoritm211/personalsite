@@ -5,7 +5,7 @@
 {% endblock %}
 
 {% block content %}
-<h1 class="mt-5"> Записи, связанные с тегом "{{tag.title | title }}"</h1>
+<h1 class="mt-5 ml-5"> Записи, связанные с тегом "{{tag.title | title }}"</h1>
     {% for post in tag.posts.all %}
         {% include 'main/includes/post_card_block.html' %}
     {% endfor %}

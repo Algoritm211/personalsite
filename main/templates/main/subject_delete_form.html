@@ -9,8 +9,8 @@
     <form action="{{ subject.get_delete_url }}" method="post">
         {% csrf_token %}
         <h3><b>Вы уверены, что хотите удалить предмет "{{ subject.title | title }}"?</b></h3>
-        <a href="{{ subject.get_absolute_url }}"> Нет, вернуться обратно </a>
-        <button type="submit" name="button" class="btn btn-danger mb-5"> Удалить </button>
+        <a href="{{ subject.get_absolute_url }}" class="btn btn-info mb-5 mr-3 mt-5"> Нет, вернуться обратно </a>
+        <button type="submit" name="button" class="btn btn-danger mb-5 mt-5"> Удалить </button>
 
     </form>
 </div>

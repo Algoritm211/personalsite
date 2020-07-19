@@ -1,5 +1,5 @@
 from django import forms
-
+from django_summernote.widgets import SummernoteWidget, SummernoteInplaceWidget
 from .models import *
 from django.core.exceptions import ValidationError
 
@@ -31,7 +31,7 @@ class PostForm(forms.ModelForm):
         widgets = {
             'title': forms.TextInput(attrs={'class': 'form-control'}),
             'slug': forms.TextInput(attrs={'class': 'form-control'}),
-            'body': forms.Textarea(attrs={'class': 'form-control'}),
+            'body': SummernoteWidget(attrs={'class': 'form-control'}),
             'tags': forms.CheckboxSelectMultiple(attrs={'class': 'form-group'}),
         }
 
